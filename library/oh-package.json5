@@ -1,0 +1,16 @@
+{
+  "name": "library",
+  "version": "1.0.0",
+  "description": "Please describe the basic information.",
+  "main": "Index.ets",
+  "author": "",
+  "license": "Apache-2.0",
+  "dependencies": {
+    "@ohos/aki": "^1.2.20",
+    "libhmac_sha256_aki.so": "file:./src/main/cpp/types/libhmacsha256"
+  },
+  "devDependencies": {},
+  "dynamicDependencies": {},
+  "homepage": "https://gitee.com/yyz116",
+  "name": "@yyz116/hmac_sha256"
+}

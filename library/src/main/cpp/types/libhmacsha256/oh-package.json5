@@ -1,0 +1,6 @@
+{
+  "name": "libhmac_sha256_aki.so",
+  "types": "./index.d.ts",
+  "version": "1.0",
+  "description": "Please describe the basic information."
+}
